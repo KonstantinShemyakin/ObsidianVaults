@@ -46,3 +46,5 @@ $ git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -m
 ```console
 $ git config --global init.defaultBranch main
 ```
+
+Для настройки и подключения ssh-ключа для работы с удаленными репозиториями в GitHub: [[Создание и подключение ssh-ключа для Git]]

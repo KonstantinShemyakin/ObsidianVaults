@@ -11,9 +11,17 @@
             "id": "a73a972c013a0fe9",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "305c2a87ea02bb47",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "СКВ VCS/Запись изменений в репозиторий.md",
+                "file": "СКВ VCS/Настройка Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СКВ VCS/Запись изменений в репозиторий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СКВ VCS/Запись изменений в репозиторий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "СКВ VCS/Запись изменений в репозиторий.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,17 +152,19 @@
   },
   "active": "a73a972c013a0fe9",
   "lastOpenFiles": [
-    "2024-02-12.md",
-    "СКВ VCS/Запись изменений в репозиторий.md",
-    "СКВ VCS/Что такое Git.md",
     "СКВ VCS/Настройка Git.md",
+    "СКВ VCS/Запись изменений в репозиторий.md",
     "СКВ VCS/Работа с репозиторием.md",
     "СКВ VCS/Создание репозитория.md",
+    "СКВ VCS/Создание и подключение ssh-ключа для Git.md",
+    "IMG/Pasted image 20240212164835.png",
+    "СКВ VCS/Что такое Git.md",
+    "СКВ VCS/О системах контроля версий.md",
+    "2024-02-12.md",
     "IMG",
     "IMG/Pasted image 20240131151424.png",
     "СКВ VCS/Основы работы с Git.md",
     "Untitled.canvas",
-    "СКВ VCS/О системах контроля версий.md",
     "Git/Untitled.canvas",
     "СКВ VCS",
     "create a link.md",
