@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0d95e58baf3a496c","type":"text","text":"Мои идеи","x":-160,"y":-160,"width":250,"height":60},
+		{"id":"ff0f639ce28f13a2","type":"text","text":"[[Математический калькулятор.canvas|Математический калькулятор]]","x":-380,"y":0,"width":250,"height":60},
+		{"id":"f390bde49aadab45","type":"text","text":"Игра","x":-380,"y":80,"width":250,"height":60},
+		{"id":"b9c86a362326d57e","type":"text","text":"Откуда подчерпнуть идеи","x":180,"y":-160,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"cb2c5c0c4067a062","fromNode":"0d95e58baf3a496c","fromSide":"bottom","toNode":"ff0f639ce28f13a2","toSide":"right"},
+		{"id":"b68cb1c8697b98e9","fromNode":"0d95e58baf3a496c","fromSide":"bottom","toNode":"f390bde49aadab45","toSide":"right"}
+	]
+}

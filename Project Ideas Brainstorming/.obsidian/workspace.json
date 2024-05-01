@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "0001b0887014874e",
+    "type": "split",
+    "children": [
+      {
+        "id": "88b365de0757a19e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d6e58202fca61d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Калькулятор/Математический калькулятор.canvas",
+                "viewState": {
+                  "x": -205,
+                  "y": 120,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f2f7115cc24fa0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4703539e0a0a5652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daf17a237b4b573f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8cb17094a56d4da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9051b8908f85c8a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46e0387f6ee93fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff4a356a9e9a1cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c846b77f7b3c6437",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Калькулятор/Математический калькулятор.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8214c3a55aacb43c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Калькулятор/Математический калькулятор.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c497dd293ac96c06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ac06c599d8a2525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Калькулятор/Математический калькулятор.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80d6e58202fca61d",
+  "lastOpenFiles": [
+    "Калькулятор/Функционал/Вычисление выражений.md",
+    "Калькулятор/Функционал/Построение интерполяционной кривой Лагранжа.md",
+    "Калькулятор/Функционал/Построения графика.md",
+    "Калькулятор/Математический калькулятор.canvas",
+    "Построение графика.md",
+    "Шаблоны/Название функционала.md",
+    "Основные идеи.canvas",
+    "Калькулятор/Функционал/Построение графика на основе математического выражения.md",
+    "Шаблоны",
+    "Калькулятор/Функционал",
+    "Калькулятор",
+    "2024-04-29.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

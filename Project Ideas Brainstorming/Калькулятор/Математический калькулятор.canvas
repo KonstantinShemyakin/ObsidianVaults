@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"288ba949b2932cf0","type":"text","text":"Математический калькулятор","x":-120,"y":-140,"width":250,"height":60},
+		{"id":"b9950b6be6e38792","type":"text","text":"Функционал","x":-245,"y":20,"width":250,"height":60},
+		{"id":"edbe1627b1d54c29","type":"text","text":"[[Вычисление выражений]]","x":-420,"y":120,"width":250,"height":60},
+		{"id":"2e26ef9b75e56d5f","type":"text","text":"[[Построения графика]]","x":-420,"y":200,"width":250,"height":60},
+		{"id":"b2e361ef6284c5a8","type":"text","text":"[[Построение интерполяционной кривой Лагранжа]]","x":-420,"y":280,"width":250,"height":100},
+		{"id":"6f6b39e424fff896","type":"text","text":"Подумать над реализацией","x":-720,"y":120,"width":250,"height":60},
+		{"id":"95e0d14485635666","type":"text","text":"Вычисление интегралов, пределов, производных","x":-900,"y":230,"width":250,"height":60},
+		{"id":"446e47f75a521bc4","type":"text","text":"Инструменты для реализации","x":40,"y":20,"width":250,"height":60},
+		{"id":"7af71479832e09e3","type":"text","text":"Язык: [С++](https://metanit.com/cpp/tutorial/)","x":-40,"y":170,"width":250,"height":60},
+		{"id":"3bdec1e19b01a7c1","type":"text","text":"GUI: [wxWidgets](https://docs.wxwidgets.org/latest/)","x":240,"y":170,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"28033eab377a162e","fromNode":"288ba949b2932cf0","fromSide":"bottom","toNode":"b9950b6be6e38792","toSide":"top"},
+		{"id":"7ffe108df23b3483","fromNode":"b9950b6be6e38792","fromSide":"bottom","toNode":"edbe1627b1d54c29","toSide":"right"},
+		{"id":"2680946bd38bb226","fromNode":"b9950b6be6e38792","fromSide":"bottom","toNode":"2e26ef9b75e56d5f","toSide":"right"},
+		{"id":"87ca6a11b569f776","fromNode":"b9950b6be6e38792","fromSide":"bottom","toNode":"b2e361ef6284c5a8","toSide":"right"},
+		{"id":"622d7d62bf9453d9","fromNode":"b9950b6be6e38792","fromSide":"left","toNode":"6f6b39e424fff896","toSide":"top"},
+		{"id":"a41514a955d0b021","fromNode":"6f6b39e424fff896","fromSide":"bottom","toNode":"95e0d14485635666","toSide":"right"},
+		{"id":"89c67586f97ce591","fromNode":"288ba949b2932cf0","fromSide":"bottom","toNode":"446e47f75a521bc4","toSide":"top"},
+		{"id":"b5de4ac6349191b7","fromNode":"446e47f75a521bc4","fromSide":"bottom","toNode":"7af71479832e09e3","toSide":"top"},
+		{"id":"b8ff3842f50547e3","fromNode":"446e47f75a521bc4","fromSide":"bottom","toNode":"3bdec1e19b01a7c1","toSide":"top"}
+	]
+}
